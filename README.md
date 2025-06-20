@@ -11,18 +11,6 @@ PostPal is a Python-based OCR project designed to automate the process of extrac
 
 ---
 
-##  Project Structure
-
-postpal/
-│
-├── postpal.ipynb # Main notebook with OCR & matching logic
-├── pincode.csv # Reference dataset of pincodes and areas
-├── sample_images/ # (Optional) Folder for input address images
-└── README.md # This file
-
-
----
-
 ## Requirements
 
 - Python 3.x
